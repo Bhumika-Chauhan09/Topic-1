@@ -1,5 +1,5 @@
 body{
-    background-color:#dcdcdc;
+    background-color:	#F0FFF0;
 } 
 div {
   background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
@@ -8,8 +8,14 @@ div {
 
 
 
-.col-lg-12{
+.page-header{
   display: flex
   justify-content= center
       
+}
+tr:hover{
+    background-color: 		#90EE90
+}
+td:hover{
+    background-color: darkseagreen
 }
